@@ -1,0 +1,15 @@
+D:\LearningCode\HighestBid\bin\Debug\net7.0\HighestBid.exe
+D:\LearningCode\HighestBid\bin\Debug\net7.0\HighestBid.deps.json
+D:\LearningCode\HighestBid\bin\Debug\net7.0\HighestBid.runtimeconfig.json
+D:\LearningCode\HighestBid\bin\Debug\net7.0\HighestBid.dll
+D:\LearningCode\HighestBid\bin\Debug\net7.0\HighestBid.pdb
+D:\LearningCode\HighestBid\obj\Debug\net7.0\HighestBid.csproj.AssemblyReference.cache
+D:\LearningCode\HighestBid\obj\Debug\net7.0\HighestBid.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCode\HighestBid\obj\Debug\net7.0\HighestBid.AssemblyInfoInputs.cache
+D:\LearningCode\HighestBid\obj\Debug\net7.0\HighestBid.AssemblyInfo.cs
+D:\LearningCode\HighestBid\obj\Debug\net7.0\HighestBid.csproj.CoreCompileInputs.cache
+D:\LearningCode\HighestBid\obj\Debug\net7.0\HighestBid.dll
+D:\LearningCode\HighestBid\obj\Debug\net7.0\refint\HighestBid.dll
+D:\LearningCode\HighestBid\obj\Debug\net7.0\HighestBid.pdb
+D:\LearningCode\HighestBid\obj\Debug\net7.0\HighestBid.genruntimeconfig.cache
+D:\LearningCode\HighestBid\obj\Debug\net7.0\ref\HighestBid.dll
